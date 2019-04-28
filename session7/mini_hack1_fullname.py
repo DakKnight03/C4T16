@@ -1,0 +1,5 @@
+name = input("enter your name: ")
+surname = input("enter your surname: ")
+name = name.upper()
+surname = surname.upper()
+print(name, surname)
